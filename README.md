@@ -1,1 +1,2 @@
-# server_side_javascript_tutorials
+# Algorithm-Study
+- Greedy(탐욕적) Algorithm
